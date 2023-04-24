@@ -1,0 +1,24 @@
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaEntidades\obj\Debug\CapaEntidades.pdb

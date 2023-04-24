@@ -1,0 +1,95 @@
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form3.resources
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form4.resources
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form5.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form3.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form4.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form5.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form6.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form3.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form4.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form5.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form6.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form7.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form3.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form4.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form5.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form6.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form7.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.Form8.resources
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache

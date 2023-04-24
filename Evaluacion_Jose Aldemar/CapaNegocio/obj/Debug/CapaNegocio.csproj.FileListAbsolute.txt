@@ -1,0 +1,44 @@
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\source\repos\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\Evalucionnn\Evalucionnn\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aldemar DEV\OneDrive\Escritorio\Evalucion\Evaluacion_Jose Aldemar\Evaluacion_Jose Aldemar\CapaNegocio\obj\Debug\CapaNegocio.pdb
